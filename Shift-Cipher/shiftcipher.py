@@ -8,6 +8,7 @@ def caesar_cipher(text, shift):
             result += chr((ord(char) + shift - 97) % 26 + 97)
         else:
             result += char
+        print(result)
     
     return result
 
