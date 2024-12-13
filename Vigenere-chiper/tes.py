@@ -2,7 +2,7 @@ from Crypto.Util.number import long_to_bytes
 from sympy import prevprime
 
 # Nilai m yang diketahui
-m = 5129055
+m = 5129057
 
 
 # Konversi bilangan bulat kembali ke byte
